@@ -1,0 +1,251 @@
+Person_ID,Cups_Per_Week,Age,Gender,Employment,Education,Income,Married,Own_Home,Smoker,Favourite_NonAlc_Drink,Veg,cup_tea,spend_food
+5,1,60,F,fulltime,high school,45000,married,no,yes,tea,nonveg,0,11787
+6,1,40,F,fulltime,high school,46000,married,no,no,other,veg,6,18674
+9,3,NA,F,fulltime,high school,47000,married,no,no,coffee,veg,1,14814
+14,5,20,F,fulltime,gradschool,65000,single,no,yes,softdrink,nonveg,0,22997
+15,0,50,F,fulltime,high school,46000,married,yes,no,coffee,nonveg,5,14606
+18,0,60,F,fulltime,high school,46000,single,yes,no,coffee,nonveg,6,14699
+21,0,50,F,fulltime,high school,47000,married,no,yes,coffee,veg,1,23307
+23,1,40,F,fulltime,high school,46000,single,no,no,coffee,nonveg,1,15928
+26,1,60,F,fulltime,high school,NA,single,yes,no,coffee,nonveg,0,7864
+28,3,60,F,fulltime,bachelors,85000,married,no,no,coffee,nonveg,0,29287
+29,1,40,F,fulltime,high school,46000,single,no,no,other,veg,3,17617
+31,0,20,F,fulltime,bachelors,56000,single,no,yes,tea,nonveg,1,12482
+34,11,NA,F,fulltime,gradschool,98000,married,yes,yes,coffee,nonveg,4,35044
+36,0,40,F,fulltime,high school,45000,single,yes,no,softdrink,nonveg,0,10966
+41,7,50,F,fulltime,gradschool,NA,single,no,yes,coffee,nonveg,6,9357
+42,2,50,F,fulltime,high school,47000,married,yes,no,tea,veg,0,15923
+46,1,40,F,fulltime,high school,45000,single,no,no,milk,nonveg,0,8195
+47,0,30,F,fulltime,high school,39000,single,no,yes,softdrink,veg,2,3728
+51,0,40,F,fulltime,high school,46000,married,yes,no,softdrink,nonveg,6,5619
+53,11,50,F,fulltime,bachelors,88000,married,no,yes,coffee,nonveg,0,12973
+60,10,50,F,fulltime,gradschool,101000,married,yes,no,coffee,veg,2,24426
+63,3,60,F,fulltime,bachelors,85000,married,yes,no,coffee,nonveg,1,26286
+65,6,40,F,fulltime,bachelors,83000,married,yes,yes,coffee,nonveg,1,35288
+71,1,60,F,fulltime,high school,45000,single,no,no,other,veg,0,9242
+73,2,40,F,fulltime,high school,45000,married,no,yes,coffee,nonveg,1,10629
+75,0,50,F,fulltime,high school,48000,single,yes,no,other,nonveg,4,23796
+77,5,50,F,fulltime,gradschool,102000,single,no,no,coffee,nonveg,2,15359
+79,1,60,F,fulltime,high school,45000,married,no,yes,softdrink,nonveg,2,4301
+80,0,30,F,fulltime,high school,39000,married,no,no,coffee,nonveg,2,5614
+82,2,50,F,fulltime,bachelors,87000,married,no,no,coffee,nonveg,1,21586
+83,1,50,F,fulltime,high school,47000,single,no,no,coffee,nonveg,3,24484
+87,1,30,F,fulltime,high school,40000,married,yes,no,coffee,nonveg,1,14026
+90,13,40,F,fulltime,bachelors,84000,single,no,no,coffee,veg,5,7962
+91,1,40,F,fulltime,high school,46000,married,no,yes,coffee,nonveg,5,4350
+92,0,40,F,fulltime,high school,46000,single,no,yes,coffee,nonveg,2,16463
+101,5,30,F,fulltime,bachelors,74000,married,no,no,coffee,nonveg,0,38988
+102,10,50,F,fulltime,gradschool,102000,married,yes,yes,coffee,nonveg,1,27415
+103,6,40,F,fulltime,bachelors,84000,married,no,no,tea,nonveg,1,7854
+104,2,50,F,fulltime,high school,48000,single,no,no,coffee,nonveg,2,4476
+105,1,50,F,fulltime,high school,47000,married,no,no,tea,nonveg,0,7157
+106,3,50,F,fulltime,bachelors,88000,single,no,no,tea,nonveg,0,8160
+109,1,60,F,fulltime,high school,45000,single,no,no,other,nonveg,4,4164
+111,1,50,F,fulltime,high school,47000,married,no,no,coffee,nonveg,0,18631
+113,1,60,F,fulltime,gradschool,97000,single,yes,yes,tea,nonveg,5,9109
+114,3,50,F,fulltime,gradschool,101000,married,yes,no,other,nonveg,5,10118
+120,12,40,F,fulltime,bachelors,84000,single,yes,yes,coffee,veg,1,21917
+122,2,40,F,fulltime,high school,45000,single,no,no,coffee,nonveg,0,5643
+125,4,60,F,fulltime,bachelors,84000,single,yes,yes,tea,nonveg,0,22259
+126,4,30,F,fulltime,high school,41000,married,yes,no,coffee,nonveg,1,3801
+127,2,40,F,fulltime,high school,46000,single,no,yes,tea,veg,1,4436
+129,1,50,F,fulltime,high school,48000,married,no,no,coffee,nonveg,0,19380
+142,2,40,F,fulltime,high school,46000,married,no,no,coffee,veg,2,4374
+143,1,20,F,fulltime,high school,31000,single,no,no,softdrink,nonveg,1,7842
+150,3,20,F,fulltime,bachelors,57000,single,no,yes,coffee,veg,0,5366
+154,1,60,F,fulltime,high school,44000,single,no,yes,coffee,nonveg,1,4240
+159,10,50,F,fulltime,gradschool,101000,single,no,no,coffee,nonveg,0,40821
+160,1,20,F,fulltime,high school,30000,single,no,no,coffee,nonveg,2,14234
+179,0,40,F,fulltime,bachelors,85000,married,no,no,other,nonveg,3,9570
+180,0,60,F,fulltime,high school,46000,single,yes,no,coffee,nonveg,1,14004
+182,3,60,F,fulltime,bachelors,85000,married,yes,no,coffee,nonveg,0,33971
+190,13,30,F,fulltime,bachelors,74000,married,yes,no,coffee,nonveg,1,6914
+191,2,40,F,fulltime,high school,46000,married,no,no,coffee,nonveg,0,4286
+200,2,30,F,fulltime,high school,39000,married,no,no,coffee,nonveg,0,10357
+204,12,30,F,fulltime,gradschool,86000,married,no,no,coffee,nonveg,2,17180
+205,2,40,F,fulltime,high school,45000,married,no,yes,coffee,veg,5,4741
+207,3,30,F,fulltime,high school,40000,single,no,no,coffee,veg,1,3777
+209,3,30,F,fulltime,high school,40000,single,yes,no,coffee,nonveg,5,18416
+217,6,30,F,fulltime,bachelors,74000,single,yes,yes,milk,nonveg,2,6946
+220,4,20,F,fulltime,bachelors,56000,single,no,yes,coffee,nonveg,0,5276
+223,1,60,F,fulltime,high school,45000,married,no,no,coffee,nonveg,0,4475
+224,0,60,F,fulltime,bachelors,84000,single,yes,no,milk,veg,0,7905
+228,2,30,F,fulltime,gradschool,86000,married,no,no,tea,nonveg,2,10985
+234,0,60,F,fulltime,high school,46000,single,yes,yes,milk,nonveg,1,18340
+235,2,40,F,fulltime,high school,46000,single,no,no,coffee,nonveg,0,4441
+238,1,60,F,fulltime,high school,45000,married,no,no,coffee,nonveg,0,4295
+240,18,40,F,fulltime,gradschool,97000,single,yes,yes,coffee,nonveg,2,9048
+241,0,20,F,fulltime,high school,31000,single,no,yes,coffee,nonveg,0,12711
+248,5,30,F,fulltime,bachelors,74000,married,no,no,coffee,nonveg,0,26355
+250,3,60,F,fulltime,high school,46000,single,no,yes,coffee,nonveg,1,20553
+7,3,50,F,parttime,gradschool,51000,married,no,no,milk,nonveg,0,19590
+8,0,60,F,parttime,high school,24000,married,yes,no,tea,nonveg,0,7797
+11,0,50,F,parttime,high school,23000,single,yes,yes,coffee,veg,1,2302
+12,1,30,F,parttime,high school,20000,single,no,no,coffee,nonveg,0,3459
+45,1,40,F,parttime,high school,22000,single,no,no,tea,nonveg,1,11623
+54,2,30,F,parttime,gradschool,42000,single,no,no,other,nonveg,5,15905
+59,0,60,F,parttime,high school,22000,married,no,yes,coffee,nonveg,1,2183
+70,0,20,F,parttime,high school,14000,single,no,yes,tea,nonveg,3,1411
+78,4,30,F,parttime,gradschool,42000,married,yes,no,coffee,veg,5,4201
+81,0,50,F,parttime,bachelors,45000,single,no,no,tea,nonveg,2,11349
+110,0,30,F,parttime,high school,20000,single,no,no,tea,veg,0,2660
+130,1,40,F,parttime,high school,23000,married,no,yes,coffee,veg,0,2282
+132,1,50,F,parttime,gradschool,50000,married,no,no,tea,nonveg,2,9902
+134,1,40,F,parttime,high school,23000,single,no,no,coffee,veg,0,2250
+155,0,40,F,parttime,high school,23000,married,no,no,coffee,nonveg,0,6217
+163,4,30,F,parttime,bachelors,37000,single,no,no,coffee,nonveg,0,5260
+164,0,60,F,parttime,high school,24000,married,no,yes,coffee,nonveg,2,4502
+167,1,30,F,parttime,bachelors,36000,single,no,no,coffee,nonveg,1,3426
+175,0,40,F,parttime,high school,22000,single,no,no,other,nonveg,0,3601
+186,0,50,F,parttime,high school,23000,married,no,no,tea,nonveg,0,2247
+188,1,60,F,parttime,high school,22000,single,no,no,coffee,nonveg,1,10630
+189,3,40,F,parttime,bachelors,42000,married,no,no,coffee,nonveg,3,14478
+196,0,60,F,parttime,high school,22000,single,no,no,milk,nonveg,4,10624
+198,1,30,F,parttime,high school,20000,single,no,yes,softdrink,nonveg,4,4747
+199,1,40,F,parttime,bachelors,42000,single,no,no,coffee,veg,0,3935
+203,0,NA,F,parttime,high school,20000,single,no,no,milk,nonveg,0,4392
+227,1,60,F,parttime,bachelors,NA,married,no,yes,tea,nonveg,1,4066
+230,1,20,F,parttime,high school,15000,married,no,yes,coffee,nonveg,0,2892
+244,1,50,F,parttime,gradschool,51000,single,no,yes,other,nonveg,3,4882
+19,0,30,F,student,high school,3000,married,no,no,milk,nonveg,1,309
+33,0,20,F,student,high school,3000,single,no,yes,coffee,nonveg,2,532
+39,0,NA,F,student,high school,3000,married,no,no,tea,nonveg,1,1094
+86,1,20,F,student,gradschool,6000,single,no,yes,coffee,nonveg,3,752
+96,0,30,F,student,high school,4000,married,no,yes,coffee,nonveg,1,518
+117,0,20,F,student,bachelors,6000,single,no,no,coffee,nonveg,2,2377
+158,0,20,F,student,high school,3000,married,no,no,coffee,nonveg,1,622
+165,0,20,F,student,high school,2000,single,no,yes,coffee,nonveg,4,902
+172,0,30,F,student,high school,4000,married,yes,yes,softdrink,nonveg,2,416
+185,0,20,F,student,gradschool,6000,single,no,no,coffee,veg,3,1347
+187,0,20,F,student,gradschool,6000,single,no,no,softdrink,nonveg,0,1980
+197,0,30,F,student,high school,5000,married,no,yes,coffee,nonveg,0,1681
+218,0,30,F,student,high school,NA,married,yes,no,coffee,nonveg,3,2527
+246,0,20,F,student,bachelors,6000,single,no,no,coffee,nonveg,2,2573
+3,1,30,F,unempl,bachelors,14000,single,yes,no,coffee,nonveg,0,6960
+4,0,20,F,unempl,high school,6000,single,no,no,coffee,nonveg,4,1173
+16,0,50,F,unempl,high school,10000,married,no,no,tea,nonveg,1,959
+22,0,50,F,unempl,gradschool,20000,married,no,no,coffee,veg,1,4925
+44,0,20,F,unempl,high school,6000,single,no,yes,softdrink,veg,1,2009
+64,0,40,F,unempl,bachelors,16000,single,no,no,tea,veg,2,6023
+66,2,60,F,unempl,gradschool,40000,married,yes,no,other,nonveg,1,9832
+72,0,20,F,unempl,high school,6000,single,no,no,tea,veg,0,1226
+89,0,30,F,unempl,high school,8000,married,no,no,coffee,nonveg,2,849
+98,0,20,F,unempl,high school,6000,single,no,yes,tea,nonveg,1,2714
+107,0,40,F,unempl,high school,9000,single,yes,yes,coffee,nonveg,2,2099
+119,0,50,F,unempl,high school,10000,married,no,yes,coffee,nonveg,0,1200
+124,2,40,F,unempl,gradschool,19000,married,yes,yes,milk,veg,0,1780
+133,1,20,F,unempl,bachelors,11000,single,no,no,coffee,nonveg,2,1166
+137,0,50,F,unempl,bachelors,18000,married,yes,no,coffee,nonveg,2,2900
+153,0,30,F,unempl,high school,8000,married,no,yes,tea,nonveg,0,3591
+168,0,40,F,unempl,gradschool,20000,married,no,no,tea,nonveg,2,9303
+169,1,50,F,unempl,bachelors,18000,married,no,no,coffee,nonveg,0,1811
+177,0,60,F,unempl,high school,28000,married,yes,no,softdrink,nonveg,2,2737
+208,0,30,F,unempl,bachelors,15000,married,no,yes,coffee,veg,0,7006
+210,1,40,F,unempl,bachelors,17000,single,no,yes,other,veg,2,1763
+236,1,60,F,unempl,high school,30000,married,no,yes,coffee,nonveg,0,9050
+237,0,60,F,unempl,gradschool,40000,married,yes,yes,tea,nonveg,0,9099
+243,0,20,F,unempl,bachelors,11000,single,no,no,other,nonveg,2,1948
+1,11,50,M,fulltime,bachelors,107000,married,no,no,coffee,nonveg,1,9986
+2,1,60,M,fulltime,bachelors,NA,married,yes,no,tea,nonveg,2,9590
+10,6,40,M,fulltime,high school,55000,married,no,no,coffee,nonveg,1,13115
+13,1,30,M,fulltime,high school,48000,single,no,no,coffee,nonveg,3,7466
+17,2,40,M,fulltime,high school,56000,married,no,no,tea,nonveg,0,10495
+20,2,40,M,fulltime,bachelors,102000,single,yes,no,milk,nonveg,0,10603
+24,0,40,M,fulltime,bachelors,103000,married,yes,no,coffee,nonveg,0,9686
+25,3,50,M,fulltime,bachelors,107000,single,yes,no,coffee,nonveg,0,10011
+32,0,40,M,fulltime,gradschool,118000,married,yes,no,coffee,nonveg,0,11051
+35,0,60,M,fulltime,bachelors,103000,single,no,no,coffee,veg,0,32290
+38,11,30,M,fulltime,gradschool,NA,single,no,no,milk,nonveg,2,35981
+43,4,60,M,fulltime,bachelors,103000,single,yes,no,coffee,nonveg,1,23870
+49,1,60,M,fulltime,high school,55000,married,no,yes,softdrink,nonveg,2,15961
+50,9,NA,M,fulltime,bachelors,107000,married,no,no,coffee,veg,5,31889
+52,4,50,M,fulltime,bachelors,107000,single,yes,no,tea,veg,0,29177
+55,1,40,M,fulltime,high school,56000,single,no,yes,coffee,nonveg,5,5195
+58,1,30,M,fulltime,high school,49000,married,no,yes,other,nonveg,1,21032
+61,0,20,M,fulltime,bachelors,69000,single,no,no,tea,nonveg,2,13564
+62,2,40,M,fulltime,high school,55000,single,yes,yes,coffee,nonveg,3,15513
+67,4,40,M,fulltime,high school,56000,married,no,no,coffee,nonveg,1,13770
+74,1,30,M,fulltime,high school,48000,married,no,no,coffee,nonveg,0,7779
+76,1,50,M,fulltime,high school,58000,married,no,no,coffee,nonveg,3,5564
+88,2,50,M,fulltime,high school,58000,married,no,no,coffee,nonveg,0,16631
+94,3,30,M,fulltime,high school,49000,married,yes,yes,coffee,nonveg,3,18645
+99,5,40,M,fulltime,high school,55000,single,yes,no,coffee,nonveg,0,10979
+100,2,20,M,fulltime,high school,36000,single,no,no,coffee,veg,0,10753
+108,0,50,M,fulltime,high school,58000,single,no,no,milk,nonveg,0,18961
+112,0,40,M,fulltime,high school,56000,married,no,no,coffee,nonveg,2,13335
+115,3,50,M,fulltime,bachelors,108000,single,no,no,coffee,nonveg,5,11892
+116,10,50,M,fulltime,bachelors,107000,single,no,no,tea,nonveg,0,10088
+131,0,60,M,fulltime,high school,55000,married,yes,no,tea,nonveg,0,12692
+136,7,40,M,fulltime,high school,55000,single,no,no,coffee,nonveg,0,23233
+141,4,60,M,fulltime,bachelors,103000,single,no,yes,softdrink,nonveg,2,17628
+144,5,40,M,fulltime,high school,55000,single,yes,no,coffee,nonveg,1,27684
+146,3,40,M,fulltime,high school,55000,married,no,yes,coffee,nonveg,1,6728
+148,12,40,M,fulltime,bachelors,104000,single,no,no,coffee,nonveg,0,10832
+151,0,30,M,fulltime,high school,49000,single,no,no,tea,nonveg,0,28604
+152,1,60,M,fulltime,high school,56000,married,no,yes,coffee,nonveg,0,32928
+156,1,50,M,fulltime,high school,58000,married,yes,no,tea,nonveg,1,22300
+161,19,40,M,fulltime,bachelors,102000,single,yes,no,coffee,nonveg,2,39129
+184,2,20,M,fulltime,high school,37000,single,no,yes,coffee,nonveg,1,4717
+192,2,60,M,fulltime,high school,55000,single,yes,no,coffee,nonveg,1,13933
+194,5,30,M,fulltime,high school,50000,single,yes,no,tea,nonveg,4,17705
+195,3,30,M,fulltime,high school,48000,married,no,yes,tea,nonveg,2,8525
+211,0,20,M,fulltime,high school,37000,single,no,yes,tea,nonveg,1,9580
+212,2,30,M,fulltime,high school,49000,married,yes,yes,coffee,nonveg,2,6573
+214,33,30,M,fulltime,gradschool,103000,single,no,yes,coffee,nonveg,0,45120
+216,0,30,M,fulltime,high school,49000,single,no,no,coffee,nonveg,1,6677
+219,6,40,M,fulltime,high school,56000,married,yes,no,coffee,nonveg,2,9299
+221,0,60,M,fulltime,bachelors,103000,married,no,no,coffee,nonveg,1,28015
+229,5,40,M,fulltime,high school,56000,single,yes,no,coffee,nonveg,4,5866
+232,0,60,M,fulltime,high school,55000,single,no,yes,tea,nonveg,0,12473
+233,2,60,M,fulltime,high school,56000,single,no,no,coffee,nonveg,1,21149
+245,5,50,M,fulltime,high school,57000,married,yes,yes,coffee,nonveg,6,6193
+247,2,60,M,fulltime,high school,55000,married,no,no,coffee,nonveg,1,21040
+249,29,40,M,fulltime,bachelors,103000,married,no,no,coffee,nonveg,3,9712
+30,3,30,M,parttime,bachelors,45000,single,no,no,tea,nonveg,0,4273
+37,1,60,M,parttime,high school,28000,single,no,no,softdrink,veg,0,2765
+40,1,20,M,parttime,high school,18000,single,no,yes,coffee,nonveg,5,1681
+57,2,40,M,parttime,bachelors,52000,single,yes,no,tea,nonveg,0,12116
+69,4,50,M,parttime,gradschool,61000,single,no,no,coffee,nonveg,6,5753
+84,1,30,M,parttime,high school,24000,single,yes,yes,coffee,nonveg,0,7634
+93,0,40,M,parttime,gradschool,59000,married,no,no,tea,nonveg,0,9521
+123,3,40,M,parttime,bachelors,52000,single,no,yes,coffee,nonveg,1,21202
+128,9,40,M,parttime,bachelors,52000,married,yes,no,coffee,nonveg,2,17123
+135,0,60,M,parttime,high school,27000,single,no,no,coffee,nonveg,2,2671
+138,2,60,M,parttime,bachelors,51000,single,no,no,coffee,nonveg,0,4783
+140,0,60,M,parttime,high school,28000,single,no,no,tea,veg,3,11384
+147,1,30,M,parttime,high school,25000,married,no,no,coffee,nonveg,2,4503
+162,0,20,M,parttime,high school,17000,single,no,yes,coffee,nonveg,1,6317
+166,0,60,M,parttime,high school,28000,single,no,no,softdrink,nonveg,0,2757
+176,0,60,M,parttime,high school,28000,single,no,no,milk,nonveg,2,4696
+178,0,30,M,parttime,high school,24000,single,no,no,coffee,nonveg,6,2598
+201,0,50,M,parttime,high school,28000,single,yes,no,tea,veg,0,8759
+202,6,50,M,parttime,bachelors,54000,married,no,yes,coffee,nonveg,2,9133
+206,8,40,M,parttime,bachelors,52000,married,no,no,coffee,nonveg,6,10827
+213,0,30,M,parttime,gradschool,52000,single,yes,yes,coffee,nonveg,0,7918
+215,4,60,M,parttime,gradschool,59000,married,no,yes,coffee,nonveg,0,14785
+222,2,50,M,parttime,high school,29000,single,no,no,coffee,nonveg,2,6896
+225,0,20,M,parttime,high school,18000,single,no,no,other,nonveg,0,1685
+48,0,20,M,student,high school,4000,single,no,no,tea,nonveg,2,384
+68,0,20,M,student,high school,4000,married,no,no,coffee,veg,2,1687
+118,0,30,M,student,high school,5000,married,no,no,coffee,nonveg,1,1019
+149,0,20,M,student,high school,3000,single,no,yes,coffee,nonveg,0,358
+239,1,20,M,student,gradschool,8000,single,no,no,coffee,nonveg,1,3158
+27,0,40,M,unempl,high school,12000,single,no,no,tea,nonveg,5,2457
+56,0,30,M,unempl,high school,10000,single,yes,yes,coffee,nonveg,2,1111
+85,1,20,M,unempl,bachelors,15000,single,no,no,tea,nonveg,1,3471
+95,0,20,M,unempl,high school,7000,single,no,yes,coffee,nonveg,2,649
+97,1,50,M,unempl,bachelors,21000,single,no,no,coffee,veg,0,2014
+121,1,60,M,unempl,gradschool,44000,single,yes,yes,tea,nonveg,0,4092
+139,1,50,M,unempl,bachelors,21000,married,no,no,coffee,veg,1,2862
+145,0,50,M,unempl,high school,11000,married,yes,yes,coffee,nonveg,2,2727
+157,1,60,M,unempl,high school,31000,married,no,no,coffee,nonveg,2,6226
+170,0,20,M,unempl,bachelors,14000,single,no,no,coffee,nonveg,0,4117
+171,0,50,M,unempl,high school,12000,married,no,no,coffee,veg,3,1236
+173,0,50,M,unempl,bachelors,21000,married,no,no,coffee,nonveg,1,6153
+174,1,20,M,unempl,bachelors,13000,single,no,no,coffee,nonveg,3,1313
+181,0,20,M,unempl,high school,8000,single,no,no,coffee,nonveg,0,1669
+183,1,40,M,unempl,high school,11000,married,yes,yes,tea,nonveg,0,2246
+193,0,30,M,unempl,high school,9000,single,yes,no,coffee,nonveg,3,4595
+226,0,40,M,unempl,high school,11000,single,no,no,softdrink,veg,1,2102
+231,0,30,M,unempl,gradschool,21000,married,no,yes,coffee,veg,1,8708
+242,0,20,M,unempl,high school,7000,married,no,yes,coffee,veg,1,2857
