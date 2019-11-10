@@ -1,0 +1,4 @@
+student_id|name|age
+0|NAN|14.0
+1|Mary|30.0
+2|Kate|NAN
